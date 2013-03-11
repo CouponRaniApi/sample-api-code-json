@@ -1,7 +1,7 @@
 <?php
 /*	
 	#last updated on 05-03-2013 
-	#CouponRani Development 
+	#CouponRani Development Team
 	#mail us at : care@couponrani.com
 */
 $my_api_id="your_api_code"; 	// replace with your api id
